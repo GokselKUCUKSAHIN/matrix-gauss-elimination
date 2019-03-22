@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\bin\Debug\GaussElimination.exe.config
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\bin\Debug\GaussElimination.exe
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\bin\Debug\GaussElimination.pdb
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\obj\Debug\GaussElimination.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\obj\Debug\GaussElimination.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\obj\Debug\GaussElimination.exe
+C:\Users\Jellybeanci\source\repos\GaussElimination\GaussElimination\obj\Debug\GaussElimination.pdb
