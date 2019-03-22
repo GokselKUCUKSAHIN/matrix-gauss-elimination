@@ -1,0 +1,7 @@
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\bin\Debug\GaussSimple.exe.config
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\bin\Debug\GaussSimple.exe
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\bin\Debug\GaussSimple.pdb
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\obj\Debug\GaussSimple.csprojAssemblyReference.cache
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\obj\Debug\GaussSimple.csproj.CoreCompileInputs.cache
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\obj\Debug\GaussSimple.exe
+C:\Users\Jellybeanci\source\repos\GaussSimple\GaussSimple\obj\Debug\GaussSimple.pdb
