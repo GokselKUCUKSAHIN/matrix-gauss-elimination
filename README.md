@@ -1,7 +1,8 @@
 # Matrix-Gauss-Elimination-
 Sayısal Yöntemler Matris Gauss Eliminasyon Ödevi
 
-Algoritma referansları
+Algoritma referansları:
+-
 http://www.numericmethod.com/About-numerical-methods/system-of-linear-equations/gauss-elimination
 http://www.numericmethod.com/About-numerical-methods/system-of-linear-equations/jacobi
 https://matrix.reshish.com/gauss-jordanElimination.php
